@@ -9,122 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c97689a8-ad27-4b19-9635-d95059efbd7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jakarta.servlet.jsp.jstl-2.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/AdminServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/AverageRating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/CartServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/CollectPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/CustomerServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/DisplayData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/DownloadReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/GenerateReportSummary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/GetSellerBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/LogOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/MakePayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/ProductServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/ProductTotalSales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/SellerServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/SubmitFeedback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/TopUpBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/UserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/AbstractFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/AdminFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/CartFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/CustomerFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/FeedbackFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/OrderFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/PaymentFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/ProductFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/SellerFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/UserFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Feedback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Seller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/UserLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/MyEntityManagerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/PasswordHashing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/StaticVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/ManageAdmin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/ManageCustomer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/ManageSeller.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/ManageUser.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Utils/adminNav.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Utils/errorMessage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Utils/loginNav.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Utils/navbar.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Utils/sellerNav.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/addNewProduct.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/adminHome.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/dino.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/dino2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/watch1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/watch2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/watch3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/watch4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/cart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/cart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/customerFeedback.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/newCustomer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/productDetails.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/sellerPage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/signup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/customerFeedback.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/customerTopup.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/datatables/dataTables.bootstrap4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/datatables/dataTables.bootstrap4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/datatables/dataTables.bootstrap4.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/datatables/dataTables.bootstrap4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/datatables/jquery.dataTables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/datatables/jquery.dataTables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/editCustomerProfile.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/editProduct.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/editSellerProfile.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/ManageAdmin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/customerFeedback.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/errorMessage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/newCustomer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/sellerPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/signup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/newCustomer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/newSeller.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/productDetails.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/sellerFeedback.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/sellerPage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/signup.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/testing.jsp" afterDir="false" />
+    <list default="true" id="c97689a8-ad27-4b19-9635-d95059efbd7f" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -366,8 +253,16 @@
       <workItem from="1684160827333" duration="4000" />
       <workItem from="1684300405657" duration="6509000" />
       <workItem from="1684334622614" duration="25000" />
-      <workItem from="1684335132160" duration="702000" />
+      <workItem from="1684335132160" duration="1074000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1684335875223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684335875223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,6 +281,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>

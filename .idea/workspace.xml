@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Shopoo:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c97689a8-ad27-4b19-9635-d95059efbd7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.servlet.jsp.jstl-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/AdminServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/AverageRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/CartServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/CollectPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/DisplayData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/DownloadReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/GenerateReportSummary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/GetSellerBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/LogOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/MakePayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/ProductTotalSales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/SellerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/SubmitFeedback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/TopUpBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/AbstractFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/AdminFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/CartFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/CustomerFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/FeedbackFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/OrderFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/PaymentFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/ProductFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/SellerFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Facade/UserFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Feedback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/Model/UserLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/MyEntityManagerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/PasswordHashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shopoo/StaticVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/ManageAdmin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/ManageCustomer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/ManageSeller.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/ManageUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Utils/adminNav.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Utils/errorMessage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Utils/loginNav.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Utils/navbar.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Utils/sellerNav.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/addNewProduct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/adminHome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/dino.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/dino2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/watch1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/watch2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/watch3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/watch4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/customerFeedback.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/newCustomer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/productDetails.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/sellerPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/signup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/customerFeedback.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/customerTopup.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/datatables/dataTables.bootstrap4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/datatables/dataTables.bootstrap4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/datatables/dataTables.bootstrap4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/datatables/dataTables.bootstrap4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/datatables/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/datatables/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/editCustomerProfile.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/editProduct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/editSellerProfile.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/ManageAdmin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/customerFeedback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/errorMessage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/newCustomer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/sellerPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/newCustomer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/newSeller.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/productDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/sellerFeedback.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/sellerPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/signup.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/testing.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+        <option value="Servlet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/adminHome.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="2OHbMtMvjDkLrgRWhoZ7DT3SvT5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;JPA.DatabaseSchemaImportDialog&quot;: &quot;dd33290d-b5dc-40d7-b741-58d4a3dff4a3&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/derri/IdeaProjects/Shopoo/src/main/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/derri/IdeaProjects/sellvana&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;c634087def543b19a3f8abe3c2c88f92&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.shopoo.Controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\derri\IdeaProjects\Shopoo\src\main\webapp" />
+      <recent name="C:\Users\derri\IdeaProjects\Shopoo\src\main\webapp\assets\images" />
+      <recent name="C:\Users\derri\IdeaProjects\Shopoo\src\main\webapp\adminPages" />
+      <recent name="C:\Users\derri\IdeaProjects\Shopoo\src\main\webapp\Utils" />
+      <recent name="C:\Users\derri\IdeaProjects\Shopoo\src\main\webapp\js" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="entity" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.shopoo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GlassFish 7.0.4" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 6.2.51" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Shopoo-1.0-SNAPSHOT/login.jsp" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Shopoo:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Shopoo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c97689a8-ad27-4b19-9635-d95059efbd7f" name="Changes" comment="" />
+      <created>1681220411516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681220411516</updated>
+      <workItem from="1681220412560" duration="6728000" />
+      <workItem from="1681230174039" duration="157000" />
+      <workItem from="1681286936996" duration="67000" />
+      <workItem from="1681287234880" duration="55000" />
+      <workItem from="1681431559618" duration="1000000" />
+      <workItem from="1681475622235" duration="2053000" />
+      <workItem from="1681538839503" duration="831000" />
+      <workItem from="1681543492739" duration="10540000" />
+      <workItem from="1681570020905" duration="1351000" />
+      <workItem from="1681571385326" duration="4745000" />
+      <workItem from="1681622137299" duration="22225000" />
+      <workItem from="1681713348407" duration="11000" />
+      <workItem from="1681713428692" duration="1191000" />
+      <workItem from="1681717363829" duration="4253000" />
+      <workItem from="1681736200692" duration="8832000" />
+      <workItem from="1681745087787" duration="2729000" />
+      <workItem from="1681752620981" duration="2177000" />
+      <workItem from="1681786793307" duration="29656000" />
+      <workItem from="1681884817410" duration="2888000" />
+      <workItem from="1681889678670" duration="10949000" />
+      <workItem from="1681949253954" duration="2287000" />
+      <workItem from="1681952355323" duration="2681000" />
+      <workItem from="1681959955111" duration="1121000" />
+      <workItem from="1681997905007" duration="5746000" />
+      <workItem from="1682045072092" duration="21623000" />
+      <workItem from="1682307069629" duration="4684000" />
+      <workItem from="1682433993398" duration="2431000" />
+      <workItem from="1682488598343" duration="1667000" />
+      <workItem from="1682495245818" duration="3304000" />
+      <workItem from="1682739820482" duration="2157000" />
+      <workItem from="1683097295273" duration="17437000" />
+      <workItem from="1683182040352" duration="19415000" />
+      <workItem from="1683269965305" duration="21146000" />
+      <workItem from="1683299457012" duration="252000" />
+      <workItem from="1683354659242" duration="3417000" />
+      <workItem from="1683358089126" duration="3448000" />
+      <workItem from="1683361557976" duration="29000" />
+      <workItem from="1683361588445" duration="3999000" />
+      <workItem from="1683365606688" duration="13404000" />
+      <workItem from="1683394678280" duration="2376000" />
+      <workItem from="1683438941673" duration="35268000" />
+      <workItem from="1683525965549" duration="31135000" />
+      <workItem from="1683562194910" duration="3820000" />
+      <workItem from="1683604806077" duration="13304000" />
+      <workItem from="1683621794672" duration="17000" />
+      <workItem from="1683621914977" duration="29791000" />
+      <workItem from="1683698755418" duration="2868000" />
+      <workItem from="1683701645272" duration="33350000" />
+      <workItem from="1683776588213" duration="44204000" />
+      <workItem from="1683826364813" duration="328000" />
+      <workItem from="1683826701837" duration="305000" />
+      <workItem from="1683827009083" duration="213000" />
+      <workItem from="1683860300472" duration="86000" />
+      <workItem from="1683864794362" duration="21907000" />
+      <workItem from="1683897438988" duration="2776000" />
+      <workItem from="1683900233286" duration="6528000" />
+      <workItem from="1683908157875" duration="51000" />
+      <workItem from="1683947272519" duration="11251000" />
+      <workItem from="1683972405432" duration="79000" />
+      <workItem from="1683980220119" duration="3823000" />
+      <workItem from="1683991193087" duration="5937000" />
+      <workItem from="1684043892618" duration="4189000" />
+      <workItem from="1684048259913" duration="180000" />
+      <workItem from="1684048573938" duration="746000" />
+      <workItem from="1684049332658" duration="340000" />
+      <workItem from="1684049726737" duration="290000" />
+      <workItem from="1684050030349" duration="1755000" />
+      <workItem from="1684074008537" duration="851000" />
+      <workItem from="1684075107487" duration="498000" />
+      <workItem from="1684076706840" duration="2067000" />
+      <workItem from="1684160827333" duration="4000" />
+      <workItem from="1684300405657" duration="6509000" />
+      <workItem from="1684334622614" duration="25000" />
+      <workItem from="1684335132160" duration="702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.glassfish.wasp.taglibs.standard.tag.common.core.ForEachSupport$SimpleForEachIterator" memberName="i" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

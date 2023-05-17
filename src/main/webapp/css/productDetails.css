@@ -1,0 +1,9 @@
+.card-title {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.img-fluid {
+    object-fit: cover;
+    height: 400px;
+}
